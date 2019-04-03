@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553680860 source:c:\users\franco\documents\utn\laboratorio y programacion\lab 1 y pro 1\proyectos\bibliotecas\op locas.c
+
+1553680359 source:c:\users\franco\documents\utn\laboratorio y programacion\lab 1 y pro 1\proyectos\calculadoratp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Bibliotecas/op locas.h"
+
+1553680744 c:\users\franco\documents\utn\laboratorio y programacion\lab 1 y pro 1\proyectos\bibliotecas\op locas.h
+
+1554210742 source:e:\laboratorio y programacion\lab 1 y pro 1\proyectos\bibliotecas\op locas.c
+	<stdio.h>
+	<stdlib.h>
+
+1554211238 source:e:\laboratorio y programacion\lab 1 y pro 1\proyectos\calculadoratp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Bibliotecas/op locas.h"
+
+1554200852 e:\laboratorio y programacion\lab 1 y pro 1\proyectos\bibliotecas\op locas.h
+
